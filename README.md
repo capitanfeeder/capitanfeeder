@@ -13,13 +13,13 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=capitanfeeder&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" width="400" alt="Gabriel Sosa GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=capitanfeeder&theme=dracula" alt="Gabriel Sosa GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capitanfeeder&layout=compact&hide=TSQL&theme=chartreuse-dark&count_private=true" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=capitanfeeder&theme=dracula" alt="Top Languages by Commit"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=capitanfeeder&theme=chartreuse-dark&count_private=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=capitanfeeder&theme=dracula&count_private=true" alt="GitHub Streak"/>
 </p>
 
 <picture>
