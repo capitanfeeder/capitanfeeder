@@ -18,10 +18,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=capitanfeeder&theme=dracula" alt="Top Languages by Commit"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=capitanfeeder&theme=dracula&count_private=false" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### 🛠 &nbsp;Tech Stack
