@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=capitanfeeder&theme=dracula&count_private=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=capitanfeeder&theme=dracula&count_private=false" alt="GitHub Streak"/>
 </p>
 
 ---
