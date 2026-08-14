@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=capitanfeeder&bg_color=1a1b27&color=6e9bcb&line=6e9bcb&point=ffffff&area=true&area_color=6e9bcb&hide_border=true" alt="Gabriel Sosa Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=capitanfeeder&theme=dracula&no-frame=true&no-bg=true&column=7" alt="Gabriel Sosa Trophies"/>
 </p>
 
 ---
