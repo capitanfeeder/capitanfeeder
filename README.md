@@ -22,10 +22,6 @@
   <img src="https://streak-stats.demolab.com?user=capitanfeeder&theme=dracula&count_private=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=capitanfeeder&theme=dracula&no-frame=true&no-bg=true&column=7" alt="Gabriel Sosa Trophies"/>
-</p>
-
 ---
 
 ### 🛠 &nbsp;Tech Stack
